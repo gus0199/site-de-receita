@@ -40,7 +40,7 @@
 }
 
 .banner-imagem{
-    background: url(../assets/img/banner.jpg) no-repeat center/cover;
+    background: url(banner.jpg) no-repeat center/cover;
     width: 100%;
     height: calc(100vh - 72px);
 }
